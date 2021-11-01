@@ -19,7 +19,7 @@
 
 ### App Walkthough GIF
 
-
+![Flixter2Codepath](https://user-images.githubusercontent.com/78169956/139729556-f42cd8e6-42c1-41f6-96fe-81bcb6260069.gif)
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
